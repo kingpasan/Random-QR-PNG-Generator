@@ -12,4 +12,4 @@ Application User Interface
 
 Generated QR Codes
 
-![alt text](https://raw.githubusercontent.com/kingpasan/Random-QR-PNG-Generator/master/randomQR.PNG)
+![alt text](https://raw.githubusercontent.com/kingpasan/Random-QR-PNG-Generator/master/00fbfc57fe.png)
