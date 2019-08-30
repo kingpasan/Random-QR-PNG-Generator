@@ -6,4 +6,10 @@ This simple app made for QR Codes generate purpose.
 Used Lib - Zxing QR Codes/ WindowsAPICodePack
 
 Application User Interface
-![alt text](http://url/to/img.png)
+
+![alt text](https://raw.githubusercontent.com/kingpasan/Random-QR-PNG-Generator/master/randomQR.PNG)
+
+
+Generated QR Codes
+
+![alt text](https://raw.githubusercontent.com/kingpasan/Random-QR-PNG-Generator/master/randomQR.PNG)
